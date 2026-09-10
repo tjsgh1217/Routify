@@ -1,4 +1,4 @@
-# Rotify
+# Routify
 
 ## 소개
 
@@ -7,8 +7,8 @@
 ## 시작하기
 
 ```bash
-git clone https://github.com/tjsgh1217/Rotify.git
-cd Rotify
+git clone https://github.com/tjsgh1217/Routify.git
+cd Routify
 ```
 
 ## 라이선스
